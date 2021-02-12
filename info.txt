@@ -1,0 +1,10 @@
+~// Reptisia[Online] \\~
+~ [Starter Info] ~
+
+- All of this information will be subject to change. This information is also for for the Pre Alpha version of this game.
+- This game will have an entirely open world playing aspect
+- Combat system as of now is very basic with only swords.
+- Mob system as of writing will have a common system i.e. mob will not move until the player comes within a certain radius.
+- As of writing the tutorial area has not been created yet, as well as the first floor.
+                                        
+~\\ End of Info //~
